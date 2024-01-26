@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/symgestaostfc/static/css/main.b5ef4df7.css",
+    "main.css": "/symgestaostfc/static/css/main.b3f2a66f.css",
     "main.js": "/symgestaostfc/static/js/main.8ed31fc3.js",
     "static/media/fanvil3.png": "/symgestaostfc/static/media/fanvil3.0c2a3b37b21353a548f9.png",
     "static/media/telefone.png": "/symgestaostfc/static/media/telefone.2f8c8f54e50528fee76e.png",
@@ -11,11 +11,11 @@
     "static/media/oi.png": "/symgestaostfc/static/media/oi.597d49507805f79bbfa2.png",
     "static/media/fanvil.png": "/symgestaostfc/static/media/fanvil.12b2458b28754c4870a8.png",
     "index.html": "/symgestaostfc/index.html",
-    "main.b5ef4df7.css.map": "/symgestaostfc/static/css/main.b5ef4df7.css.map",
+    "main.b3f2a66f.css.map": "/symgestaostfc/static/css/main.b3f2a66f.css.map",
     "main.8ed31fc3.js.map": "/symgestaostfc/static/js/main.8ed31fc3.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5ef4df7.css",
+    "static/css/main.b3f2a66f.css",
     "static/js/main.8ed31fc3.js"
   ]
 }
