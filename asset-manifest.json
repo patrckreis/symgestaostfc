@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/symgestaostfc/static/css/main.f855e6bc.css",
-    "main.js": "/symgestaostfc/static/js/main.7bf4b6ad.js",
-    "static/js/787.d4aba7ab.chunk.js": "/symgestaostfc/static/js/787.d4aba7ab.chunk.js",
-    "static/media/logo.svg": "/symgestaostfc/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/symgestaostfc/static/css/main.b5ef4df7.css",
+    "main.js": "/symgestaostfc/static/js/main.8ed31fc3.js",
+    "static/media/fanvil3.png": "/symgestaostfc/static/media/fanvil3.0c2a3b37b21353a548f9.png",
+    "static/media/telefone.png": "/symgestaostfc/static/media/telefone.2f8c8f54e50528fee76e.png",
+    "static/media/img1.png": "/symgestaostfc/static/media/img1.04dc886d0ab008f59381.png",
+    "static/media/imgperson1.png": "/symgestaostfc/static/media/imgperson1.4af4c40cef6f72f47b90.png",
+    "static/media/SymSGC.png": "/symgestaostfc/static/media/SymSGC.0deba3026229809f780d.png",
+    "static/media/LogoSym.png": "/symgestaostfc/static/media/LogoSym.12a672ff7ae56213eec1.png",
+    "static/media/oi.png": "/symgestaostfc/static/media/oi.597d49507805f79bbfa2.png",
+    "static/media/fanvil.png": "/symgestaostfc/static/media/fanvil.12b2458b28754c4870a8.png",
     "index.html": "/symgestaostfc/index.html",
-    "main.f855e6bc.css.map": "/symgestaostfc/static/css/main.f855e6bc.css.map",
-    "main.7bf4b6ad.js.map": "/symgestaostfc/static/js/main.7bf4b6ad.js.map",
-    "787.d4aba7ab.chunk.js.map": "/symgestaostfc/static/js/787.d4aba7ab.chunk.js.map"
+    "main.b5ef4df7.css.map": "/symgestaostfc/static/css/main.b5ef4df7.css.map",
+    "main.8ed31fc3.js.map": "/symgestaostfc/static/js/main.8ed31fc3.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.7bf4b6ad.js"
+    "static/css/main.b5ef4df7.css",
+    "static/js/main.8ed31fc3.js"
   ]
 }
